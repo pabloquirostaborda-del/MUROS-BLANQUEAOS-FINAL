@@ -1,0 +1,712 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": "Deprimido terminal del norte",
+          "Estado": "Blanqueado",
+          "Foto": "images/uribeorden.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Censurado por imagen de Uribe",
+          "Link gmaps": "https://maps.app.goo.gl/ExDjnT9Tvyizp9yp8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.572739,
+            6.275445
+
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "7837 Almas que no te dejarán dormir",
+          "Lugar": "El Tablazo, Rionegro",
+          "Estado": "Blanqueado",
+          "Foto": "images/almas.jpg",
+          "Fecha estimada de realizacion": "mayo 2025",
+          "Historia": "El más reciente, censurado por Álvaro Uribe y Cia.",
+          "Link gmaps": "https://maps.app.goo.gl/QEHzhbfTgEghuMGRA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.430970,
+            6.138147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": "Deprimido terminal del norte",
+          "Estado": "Conservado",
+          "Foto": "images/lascuchas.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "",
+          "Link gmaps": "https://maps.app.goo.gl/ExDjnT9Tvyizp9yp8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.572500,
+            6.275240
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Nos estan matando",
+          "Lugar": "Avenida paralela",
+          "Estado": "Blanqueado",
+          "Foto": "images/nosestanmatando.jpg",
+          "Fecha estimada de realizacion": "septiembre 2020",
+          "Historia": "Fue creado por la Comunidad de Pintura Callejera Medellin y la Crew 1UP",
+          "Link gmaps": "https://maps.app.goo.gl/yccXWX8eLy2u3qH59"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.558567,
+            6.308398
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "El Arte no se calla",
+          "Lugar": "Deprimido caribe",
+          "Estado": "Conservado",
+          "Foto": "images/artenocalla.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Realizado luego de que se borrara el mural de 'Nos están matando'",
+          "Link gmaps": "https://maps.app.goo.gl/TxKb4MuHxVmgaM3H7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.558560,
+            6.308861
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Estado Asesino",
+          "Lugar": "Deprimido Terminal del Norte",
+          "Estado": "Blanqueado",
+          "Foto": "images/estadoasesino.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Realizado en medio de las disputas por los murales borrados",
+          "Link gmaps": "https://maps.app.goo.gl/2oBPwzmBrvPVRABK9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.573622,
+            6.276424
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "ESMAD Violador",
+          "Lugar": "Avenida Paralela",
+          "Estado": "Blanqueado",
+          "Foto": "images/violador.jpg",
+          "Fecha estimada de realizacion": "julio 2021",
+          "Historia": "Represión en medio del estallido social del 2021",
+          "Link gmaps": "https://maps.app.goo.gl/fuveZBWswLYNorEW6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.557885,
+            6.307111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "S.O.S Catatumbo",
+          "Lugar": "Avenida 80",
+          "Estado": "Blanqueado",
+          "Foto": "images/soscatatumbo.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Realizado en apoyo al Catatumbo sometido por la violencia guerrillera",
+          "Link gmaps": "https://maps.app.goo.gl/vVAZs5VBmqheTHcX8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.602027,
+            6.250978
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Pensamiento Critico",
+          "Lugar": "UdeA",
+          "Estado": "Descontinuado",
+          "Foto": "images/pensamientocritico.jpg",
+          "Fecha estimada de realizacion": "agosto 2022",
+          "Historia": "Realizada en el marco de la reapertura del Alma Máter",
+          "Link gmaps": "https://maps.app.goo.gl/E3fsaFXA4fu1tesa7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.568154,
+            6.267793
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Palestina Libre",
+          "Lugar": "Avenida oriental, Deprimido Minorista",
+          "Estado": "Blanqueado",
+          "Foto": "images/palestinalibre.jpg",
+          "Fecha estimada de realizacion": "febrero 2024",
+          "Historia": "Realizada en el marco de la guerra en Medio Oriente",
+          "Link gmaps": "https://maps.app.goo.gl/4PP9GhwM8SJNEeVK9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.571468,
+            6.257871
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": "Politecnico Colombiano Jaime Isaza Cadavid",
+          "Estado": "Conservado",
+          "Foto": "images/poli.jpg",
+          "Fecha estimada de realizacion": "mayo 2025",
+          "Historia": "En honor a una de las madres buscadoras",
+          "Link gmaps": "https://maps.app.goo.gl/2e2Rv1zURGiDxmAE6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.576734,
+            6.211952
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "El odio nos esta matando",
+          "Lugar": "Avenida Paralela",
+          "Estado": "Conservado",
+          "Foto": "images/odiomata.jpg",
+          "Fecha estimada de realizacion": "abril 2025",
+          "Historia": "Motivado por el asesinato de Sara Millerey",
+          "Link gmaps": "https://maps.app.goo.gl/2KE8uh7QNeYPSP9R7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.557645,
+            6.310505
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razón y no estan locas",
+          "Lugar": "Peldar, Envigado",
+          "Estado": "Blanqueado",
+          "Foto": "images/noestanlocas.jpg",
+          "Fecha estimada de realizacion": "febrero 2025",
+          "Historia": "Blanqueado por un colectivo de la alcaldia dirigido por Andres \"El Gury\"",
+          "Link gmaps": "https://maps.app.goo.gl/QeteiDuhFf3ViNpM8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.592819,
+            6.173635
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Escarbando la Verdad",
+          "Lugar": "Vereda la Loma, Comuna 13",
+          "Estado": "Conservado",
+          "Foto": "images/escarbando.jpg",
+          "Fecha estimada de realizacion": "febrero 2025",
+          "Historia": "Realizado en medio de las disputas por los murales borrados",
+          "Link gmaps": "https://maps.app.goo.gl/reLyCgcX4RDCkDLv7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.626218,
+            6.275511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "La Tierra Sigue Hablando",
+          "Lugar": "Deprimido terminal del norte",
+          "Estado": "Blanqueado",
+          "Foto": "images/latierrahabla.jpg",
+          "Fecha estimada de realizacion": "enero 2026",
+          "Historia": "Una protesta silenciosa en medio de las búsquedas de la Escombrera",
+          "Link gmaps": "https://maps.app.goo.gl/rab2ue7tAfCAsgAW6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.572221,
+            6.277289
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Defiende tu salario vital",
+          "Lugar": "Centro",
+          "Estado": "Blanqueado",
+          "Foto": "images/defiendesalario.jpg",
+          "Fecha estimada de realizacion": "enero 2026",
+          "Historia": "En medio de la revocatoria de la decisión del gobierno Petro sobre el salario mínimo",
+          "Link gmaps": "https://maps.app.goo.gl/gX8aQTAErG6B7vpy9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.564054,
+            6.252821
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Colombia resiste",
+          "Lugar": "Avenida oriental, Deprimido Minorista",
+          "Estado": "Conservado",
+          "Foto": "images/colombiaresiste.jpg",
+          "Fecha estimada de realizacion": "mayo 2021",
+          "Historia": "Mural en protesta por la violencia policial y estatal",
+          "Link gmaps": "https://maps.app.goo.gl/f7j59Zjx31UNn55VA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.571240,
+            6.257865
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "No nos callaran",
+          "Lugar": "Deprimido terminal del norte",
+          "Estado": "Blanqueado",
+          "Foto": "images/nocallaran.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Mural en protesta por el blanqueo de murales",
+          "Link gmaps": "https://maps.app.goo.gl/m5yqmd8Zecw4br467"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.572100,
+            6.276130
+          ]
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Fuck Ice",
+          "Lugar": "Centro",
+          "Estado": "Blanqueado",
+          "Foto": "images/fuckice.jpg",
+          "Fecha estimada de realizacion": "enero 2026",
+          "Historia": "Realizado por las detenciones del ICE a migrantes en EE.UU.",
+          "Link gmaps": "https://maps.app.goo.gl/3psRvQAZEwpEn4eEA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.564054,
+            6.251301
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Todos sabemos quien dio la orden",
+          "Lugar": "Casa de la memoria",
+          "Estado": "Blanqueado",
+          "Foto": "images/casamemoria.jpg",
+          "Fecha estimada de realizacion": "febrero 2025",
+          "Historia": "Borrado por la misma casa de la memoria por inconsistencias con el mensaje pactado",
+          "Link gmaps": "https://maps.app.goo.gl/MpgMvorc5EcCVd948"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.556739,
+            6.245842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": " Centro de Desarrollo Cultural de Moravia",
+          "Estado": "Conservado",
+          "Foto": "images/moravia.jpg",
+          "Fecha estimada de realizacion": "septiembre 2025",
+          "Historia": "Conservado por centro de memoria. Realizado por varias \"Cuchas\"",
+          "Link gmaps": "https://maps.app.goo.gl/H7tUpgicpRogdVrP8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.564565,
+            6.276355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "La ciudad para quien",
+          "Lugar": "Comuna 2 - Santa Cruz",
+          "Estado": "Desconocido",
+          "Foto": "images/ciudadquien.jpg",
+          "Fecha estimada de realizacion": "septiembre 2025",
+          "Historia": "Realizado en apertura de la Cumbre Nacional Popular",
+          "Link gmaps": "https://maps.app.goo.gl/CdWNkRD7wj8eGnYC8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.557227,
+            6.292179
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Uribe Culpable",
+          "Lugar": "San Juan con avenida 80",
+          "Estado": "Blanqueado",
+          "Foto": "images/uribeculpable.jpg",
+          "Fecha estimada de realizacion": "julio 2025",
+          "Historia": "Lo borraron en menos de 2 horas y capturaron a los artistas",
+          "Link gmaps": "https://maps.app.goo.gl/6bcyj7sNE2aDLXdR9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.602430,
+            6.251090
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "LXS NINXS NO SE TOCAN",
+          "Lugar": "Avenida oriental, Deprimido Minorista",
+          "Estado": "Blanqueado",
+          "Foto": "images/losninos.jpg",
+          "Fecha estimada de realizacion": "junio 2025",
+          "Historia": "Protesta por los casos de violación en aumento en Colombia",
+          "Link gmaps": "https://maps.app.goo.gl/UML7J9FMiSDDjP9UA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.571430,
+            6.257890
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Memoria viva, pueblo fuerte",
+          "Lugar": "I.E. Eduardo Santos, Comuna 13",
+          "Estado": "Conservado",
+          "Foto": "images/memoriaviva.jpg",
+          "Fecha estimada de realizacion": "mayo 2025",
+          "Historia": "Realizado en homenaje a las víctimas de la operación Orión",
+          "Link gmaps": "https://maps.app.goo.gl/U6FHNFkhWBvKDJ6L9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.628690,
+            6.258150
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Yo di la orden",
+          "Lugar": "UdeA",
+          "Estado": "Conservado",
+          "Foto": "images/laordenudea.jpg",
+          "Fecha estimada de realizacion": "mayo 2025",
+          "Historia": "Mural conectado con La Escombrera, protegido por la independencia y libertad universitaria",
+          "Link gmaps": "https://maps.app.goo.gl/96vkwvtqZzgst8qSA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.568380,
+            6.267230
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Y nunca Volvieron",
+          "Lugar": "I.E. Eduardo Santos, Comuna 13",
+          "Estado": "Conservado",
+          "Foto": "images/novolvieron.jpg",
+          "Fecha estimada de realizacion": "abril 2025",
+          "Historia": "Realizado en homenaje a las víctimas de la operación Orión",
+          "Link gmaps": "https://maps.app.goo.gl/sXg8axCyYpNZVUN48"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.628983,
+            6.258690
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": "I.E. Eduardo Santos, Comuna 13",
+          "Estado": "Conservado",
+          "Foto": "images/iec13.jpg",
+          "Fecha estimada de realizacion": "abril 2025",
+          "Historia": "Mural protegido por la institución en el marco del reconocimiento a las víctimas",
+          "Link gmaps": "https://maps.app.goo.gl/m1dmK41zcHguARs17"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.628580,
+            6.258930
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Palestina Resiste",
+          "Lugar": "Avenida oriental, Deprimido Minorista",
+          "Estado": "Blanqueado",
+          "Foto": "images/palestinaresiste.jpg",
+          "Fecha estimada de realizacion": "marzo 2025",
+          "Historia": "Reconocimiento de las víctimas de la guerra en Medio Oriente. Repetición del anterior mural",
+          "Link gmaps": "https://maps.app.goo.gl/cdDhvKj8gdA9f3tj9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.571650,
+            6.257840
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Somos Proletarios",
+          "Lugar": "Parque de los Deseos",
+          "Estado": "Blanqueado",
+          "Foto": "images/somosproletarios.jpg",
+          "Fecha estimada de realizacion": "marzo 2025",
+          "Historia": "Reconocimiento a la clase trabajadora por la defensa de sus derechos.",
+          "Link gmaps": "https://maps.app.goo.gl/s8CnVqJmYcyoMBwr6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.566123,
+            6.268346
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las cuchas tienen razon",
+          "Lugar": "ITM, Boston",
+          "Estado": "Conservado",
+          "Foto": "images/cuchasitm.jpg",
+          "Fecha estimada de realizacion": "febrero 2025",
+          "Historia": "Reconocimiento de las víctimas por parte del movimiento estudiantil",
+          "Link gmaps": "https://maps.app.goo.gl/LTe1oaVvcV4j3aW27"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.551052,
+            6.245338
+          ]
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Y si fuera tu cucha que?",
+          "Lugar": "Peldar, Envigado",
+          "Estado": "Blanqueado",
+          "Foto": "images/cuchaque.jpg",
+          "Fecha estimada de realizacion": "febrero 2025",
+          "Historia": "Repintado en los muros en demolicion de la antigua fabrica de Peldar",
+          "Link gmaps": "https://maps.app.goo.gl/2mqiDJWPPbaa5TKb7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.592230,
+            6.173430
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Deja Que aspiren Mis hijos",
+          "Lugar": "Museo de antioquia",
+          "Estado": "Conservado",
+          "Foto": "images/aspiren.jpg",
+          "Fecha estimada de realizacion": "agosto 2021",
+          "Historia": "Protesta antiestado en medio del estallido social de 2021",
+          "Link gmaps": "https://maps.app.goo.gl/RLS9b6uPvc9uNj5H7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.568945,
+            6.252312
+          ]
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Poder Plebeyo",
+          "Lugar": "Avenida Paralela",
+          "Estado": "Blanqueado",
+          "Foto": "images/poderplebeyo.jpg",
+          "Fecha estimada de realizacion": "julio 2021",
+          "Historia": "Pintado en medio del estallido social del 2021",
+          "Link gmaps": "https://maps.app.goo.gl/3Z6LrCix31xzWvKy9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.557339,
+            6.307585
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Las Cuchas Tienen La Razón",
+          "Lugar": "Itagüí, Parque del Artista",
+          "Estado": "Blanqueado",
+          "Foto": "images/cuchasitagui.jpg",
+          "Fecha estimada de realizacion": "enero 2025",
+          "Historia": "Referente a la política de Seguridad Democrática del gobierno Uribe",
+          "Link gmaps": "https://maps.app.goo.gl/EaENgnhMJMYfSpqXA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.601286,
+            6.180607
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "Digna Rabia",
+          "Lugar": "Sabaneta",
+          "Estado": "Blanqueado",
+          "Foto": "images/dignarabia.jpg",
+          "Fecha estimada de realizacion": "agosto 2021",
+          "Historia": "Pintado durante el estallido social de 2021",
+          "Link gmaps": "https://maps.app.goo.gl/fuveZBWswLYNorEW6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.592230,
+            6.173430
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nombre": "¿Lxs Nuestrxs Donde Están?",
+          "Lugar": "Estación Universidad",
+          "Estado": "Blanqueado",
+          "Foto": "images/losnuestros.jpg",
+          "Fecha estimada de realizacion": "agosto 2021",
+          "Historia": "Alusión a las víctimas de la Escombrera durante el estallido social",
+          "Link gmaps": "https://maps.app.goo.gl/fkEBK1iqaF9rfD468"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.565945,
+            6.269410
+          ]
+        }
+      }
+    ]
+  }
